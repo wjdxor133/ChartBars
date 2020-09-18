@@ -5,6 +5,9 @@
 - 인원 : 본인 1명
 - 프로젝트 기간 : 2020.09.10 ~ 2020.09.10
 
+## Demo
+![Inbody](https://user-images.githubusercontent.com/47416686/93571035-d88e3900-f9ce-11ea-9f0b-c8a329d4d9c8.gif)
+
 ## 목표
 - 라이브러리 없이 Styled-component와 react hooks로만 구현하기
 
